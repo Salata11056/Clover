@@ -1,2 +1,11 @@
+<div align="center">
+
+<img
+  width="200"
+  alt="Obsidian Logo"
+  src="obsidian.jpg">
+
 # Obsidian
-My first chess engine
+It's my first chess engine. I'm just learning C++ and I really want to make an engine that plays very solid, impenetrable chess, therefore I call it Obsidian. 
+
+</div>
